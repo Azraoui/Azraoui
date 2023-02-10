@@ -17,5 +17,6 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="50px" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50px" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="50px" />
+ <img src="[https://upload.wikimedia.org/wikipedia/commons/6/64/Nestjs.png](https://res.cloudinary.com/practicaldev/image/fetch/s--m_Ng9MLF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/fppjegg7q1kb2pdzmlvf.png)" width="50px" />
 
 </div>
